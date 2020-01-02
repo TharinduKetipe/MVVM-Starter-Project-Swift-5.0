@@ -1,0 +1,76 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireImage (3.6.0):
+    - Alamofire (~> 4.9)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - IQKeyboardManagerSwift (6.5.4)
+  - MKProgress (1.0.9)
+  - Mockingjay (2.0.1):
+    - Mockingjay/Core (= 2.0.1)
+    - Mockingjay/XCTest (= 2.0.1)
+  - Mockingjay/Core (2.0.1):
+    - URITemplate (~> 2.0)
+  - Mockingjay/XCTest (2.0.1):
+    - Mockingjay/Core
+  - Nimble (8.0.5)
+  - ObjectMapper (3.5.1)
+  - RxBlocking (5.0.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.1)
+  - RxTest (5.0.1):
+    - RxSwift (~> 5)
+  - SwiftKeychainWrapper (3.4.0)
+  - SwiftyJSON (5.0.0)
+  - URITemplate (2.0.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - AlamofireObjectMapper
+  - IQKeyboardManagerSwift
+  - MKProgress (~> 1.0.9)
+  - Mockingjay
+  - Nimble
+  - RxBlocking (~> 5)
+  - RxTest (~> 5)
+  - SwiftKeychainWrapper
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - AlamofireObjectMapper
+    - IQKeyboardManagerSwift
+    - MKProgress
+    - Mockingjay
+    - Nimble
+    - ObjectMapper
+    - RxBlocking
+    - RxSwift
+    - RxTest
+    - SwiftKeychainWrapper
+    - SwiftyJSON
+    - URITemplate
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireImage: be9963c6582d68b39e89191f64c82a7d7bf40fdd
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  IQKeyboardManagerSwift: 2dde0fc70110e8eac7ccce2a46fdbec6a850b414
+  MKProgress: 4fa8dd701b872c82b780c885d577f99c8848d584
+  Mockingjay: 11a621880d2887f1775bdcf824341eb68f218450
+  Nimble: 4ab1aeb9b45553c75b9687196b0fa0713170a332
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  RxBlocking: c5e090f42d046df8b0e7752742510f349963710f
+  RxSwift: e2dc62b366a3adf6a0be44ba9f405efd4c94e0c4
+  RxTest: 0132f952a61da82d5233abedaa559df91e5330e5
+  SwiftKeychainWrapper: 6fc49fbf7d4a6b0772917acb0e53a1639f6078d6
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  URITemplate: ace0c4c46dcf8afe6e89b4060621852886b15c3b
+
+PODFILE CHECKSUM: 2483944390e05c89c3034a66c72b8aebba078405
+
+COCOAPODS: 1.8.4

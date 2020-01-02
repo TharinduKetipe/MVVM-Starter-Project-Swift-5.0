@@ -1,0 +1,57 @@
+{
+    "title": "Toppers voor achter de bar",
+    "id": 12962,
+    "key": "xy6rey",
+    "date": {
+        "date": "2019-09-07 22:00:00",
+        "timezone_type": 3,
+        "timezone": "Europe/Amsterdam"
+    },
+    "allows_factoring": true,
+    "location": {
+        "lat": "52.366480",
+        "lng": "4.897599"
+    },
+    "distance": 7,
+    "url": "https://temper.works/werken-bij/ab-ab/bartending/toppers-voor-achter-de-bar",
+    "max_possible_earnings_hour": 18,
+    "max_possible_earnings_total": 162,
+    "client": {
+        "name": "Club John Doe",
+        "id": "8rpzq8",
+        "photos": [
+            {
+                "formats": [
+                    {
+                        "cdn_url": "https://tmpr-photos.ams3.digitaloceanspaces.com/hero/66239.jpg"
+                    }
+                ]
+            }
+        ],
+        "description": "Club John Doe op het Rembrandtplein staat bekend om zijn diversiteit in zowel de bezoekers als programmering; van techno/house tot aan Urban avonden. Als een van de weinige clubs is het 7 dagen in de week open en kan er gefeest worden tot in de vroege uurtjes. Bij ons kan je een avond lekker los gaan en vergeten wie je bent.",
+        "factoring_allowed": true,
+        "factoring_payment_term_in_days": 3
+    },
+    "job_category": {
+        "description": "Bartending",
+        "icon_path": "/assets/img/web/icons/categories/white-line/icon-bartending.svg",
+        "slug": "bartending"
+    },
+    "open_positions": 1,
+    "new_matches_count": 9,
+    "photo": "https://tmpr-photos.ams3.digitaloceanspaces.com/hero/66240.jpg",
+    "shifts": [
+        {
+            "tempers_needed": 1,
+            "earnings_per_hour": 18,
+            "duration": 9,
+            "currency": "EUR",
+            "start_date": "2019-09-07",
+            "start_time": "22:00",
+            "start_datetime": "2019-09-07 22:00:00",
+            "end_time": "07:00",
+            "end_datetime": "2019-09-08 07:00:00",
+            "is_auto_accepted_when_applied_for": 0
+        }
+    ]
+}

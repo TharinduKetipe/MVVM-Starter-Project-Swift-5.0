@@ -1,0 +1,84 @@
+{
+    "title": "Cocktail shaker ",
+    "id": 26429,
+    "key": "xrzrqr",
+    "date": {
+        "date": "2019-09-08 13:00:00",
+        "timezone_type": 3,
+        "timezone": "Europe/Amsterdam"
+    },
+    "allows_factoring": true,
+    "location": {
+        "lat": "52.232910",
+        "lng": "5.374105"
+    },
+    "distance": 30,
+    "url": "https://temper.works/werken-bij/kitchen-klaas-1/bartending/cocktail-shaker",
+    "max_possible_earnings_hour": 14,
+    "max_possible_earnings_total": 98,
+    "client": {
+        "name": "Kitchen Klaas",
+        "id": "867rvq",
+        "photos": [
+            {
+                "formats": [
+                    {
+                        "cdn_url": "https://tmpr-photos.ams3.digitaloceanspaces.com/hero/46789.jpg"
+                    }
+                ]
+            },
+            {
+                "formats": [
+                    {
+                        "cdn_url": "https://tmpr-photos.ams3.digitaloceanspaces.com/hero/46976.jpg"
+                    }
+                ]
+            },
+            {
+                "formats": [
+                    {
+                        "cdn_url": "https://tmpr-photos.ams3.digitaloceanspaces.com/hero/46977.jpg"
+                    }
+                ]
+            },
+            {
+                "formats": [
+                    {
+                        "cdn_url": "https://tmpr-photos.ams3.digitaloceanspaces.com/hero/46978.jpg"
+                    }
+                ]
+            },
+            {
+                "formats": [
+                    {
+                        "cdn_url": "https://tmpr-photos.ams3.digitaloceanspaces.com/hero/46979.jpg"
+                    }
+                ]
+            }
+        ],
+        "description": "Ik, die stoere jongen met al die tattoos, begon mijn culinaire reis in de keuken van mijn oma. Daar werd eten en koken mij met de paplepel ingegoten. In 2004 heb ik deze passie om weten te zetten in een professionele carrière als chef-kok. Een chef-kok met lef! Ik creëer de meest spannende gerechtjes, waar zelfs je smaakpupillen van beginnen te kwijlen. De inspiratie hiervoor haal ik uit verschillende reizen die ik heb gemaakt. Ik ben bijvoorbeeld naar Australië, Azië en Argentinië geweest. Deze keukens rock ik inmiddels heel hard! Eten en drinken is een beleving. Een avond vol ‘Rock ’n Roll’.",
+        "factoring_allowed": true,
+        "factoring_payment_term_in_days": 3
+    },
+    "job_category": {
+        "description": "Bartending",
+        "icon_path": "/assets/img/web/icons/categories/white-line/icon-bartending.svg",
+        "slug": "bartending"
+    },
+    "open_positions": 1,
+    "new_matches_count": 1,
+    "shifts": [
+        {
+            "tempers_needed": 1,
+            "earnings_per_hour": 14,
+            "duration": 7,
+            "currency": "EUR",
+            "start_date": "2019-09-08",
+            "start_time": "13:00",
+            "start_datetime": "2019-09-08 13:00:00",
+            "end_time": "20:00",
+            "end_datetime": "2019-09-08 20:00:00",
+            "is_auto_accepted_when_applied_for": 0
+        }
+    ]
+}

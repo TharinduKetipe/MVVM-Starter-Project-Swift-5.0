@@ -1,0 +1,64 @@
+{
+    "title": "Bar medewerker",
+    "id": 26150,
+    "key": "x9779a",
+    "date": {
+        "date": "2019-09-08 16:30:00",
+        "timezone_type": 3,
+        "timezone": "Europe/Amsterdam"
+    },
+    "allows_factoring": true,
+    "location": {
+        "lat": "52.438130",
+        "lng": "4.811687"
+    },
+    "distance": 15,
+    "url": "https://temper.works/werken-bij/zaan-hotel-b-v/bartending/bar-medewerker",
+    "max_possible_earnings_hour": 16,
+    "max_possible_earnings_total": 128,
+    "client": {
+        "name": "Zaan Hotel",
+        "id": "8pgyqg",
+        "photos": [
+            {
+                "formats": [
+                    {
+                        "cdn_url": "https://tmpr-photos.ams3.digitaloceanspaces.com/hero/72808.jpg"
+                    }
+                ]
+            },
+            {
+                "formats": [
+                    {
+                        "cdn_url": "https://tmpr-photos.ams3.digitaloceanspaces.com/hero/72810.jpg"
+                    }
+                ]
+            }
+        ],
+        "description": "Sustainably enjoy breathtaking luxury\r\n\r\nEXPERIENCE SPACE AND PEACE IN THE ZAAN HOTEL AMSTERDAM ZAANDAM\r\n\r\nEnjoy lasting peace and luxury in the Zaanse style! The Zaan Hotel in Zaandam is only a 12-minute train ride away from the center of Amsterdam. This is ideal for travelers who want to combine a visit to Amsterdam with the Zaanse Schans. We also offer optimal arrangements for business travelers as well. The architecture is an ode to the “Zaanse” building style and the luxurious rooms have a contemporary design, offering every comfort and modern convenience that a traveler could wish for. Our organic (fair trade) and extensive breakfast buffet is dearly beloved by our guests and ensures a great start to your day! Moreover, the Zaan Hotel has a super-fast fiberoptic Internet connection free of charge.",
+        "factoring_allowed": true,
+        "factoring_payment_term_in_days": 3
+    },
+    "job_category": {
+        "description": "Bartending",
+        "icon_path": "/assets/img/web/icons/categories/white-line/icon-bartending.svg",
+        "slug": "bartending"
+    },
+    "open_positions": 1,
+    "new_matches_count": 1,
+    "photo": "https://tmpr-photos.ams3.digitaloceanspaces.com/hero/126474.jpg",
+    "shifts": [
+        {
+            "tempers_needed": 1,
+            "earnings_per_hour": 16,
+            "duration": 8,
+            "currency": "EUR",
+            "start_date": "2019-09-08",
+            "start_time": "16:30",
+            "start_datetime": "2019-09-08 16:30:00",
+            "end_time": "01:00",
+            "end_datetime": "2019-09-09 01:00:00",
+            "is_auto_accepted_when_applied_for": 0
+        }
+    ]
+}

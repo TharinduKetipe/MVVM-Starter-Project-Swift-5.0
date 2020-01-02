@@ -1,0 +1,15 @@
+/* 
+  localizable.strings
+  TestApplication
+
+  Created by Tharindu Ketipearachchi on 12/31/19.
+  Copyright © 2019 Tharindu Ketipearachchi. All rights reserved.
+*/
+
+"Success.Alert.Title" = "Success";
+"Success.Message.Register" = "Successfully registered!";
+"Error.Alert.Title" = "Error";
+"Error.Message.Register" = "Registration failed. Please try again!";
+"Required.Message.Name" = "Name is reqired!";
+"Required.Message.Age" = "Age is reqired!";
+"Required.Message.Salary" = "Salary is reqired!";
